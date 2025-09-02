@@ -3,13 +3,13 @@
 Aspiring Software Engineer
 
 ## 🚀 About Me  
-- 📚 Statistical Data Science undergraduate with strong foundations in **Data Structures & Algorithms**
+- 📚 Studying BSc (Hons) Statistical Data Science @ Heriot-Watt University
 - 💡 Experience building projects in **Python, Java, C++ and SQL** 
 - 🏦 Interested in **FinTech** and how technology drives major banks
   
 ## 🛠️ Technical Skills  
 
-**Languages:** Python, Java, C++, SQL, JavaScript  
+**Languages:** Python, Java, C++, SQL  
 
 **Core Skills:**  
 - Data Structures & Algorithms  
@@ -28,6 +28,7 @@ Aspiring Software Engineer
 
 ## Projects
 
-| Project Name              | GitHub Repo                                                                 | Live Demo |
-|----------------------------|-----------------------------------------------------------------------------|-----------|
-| Dijkstra Visualiser in Java   | [Repo](https://github.com/jbrowne7/javafx-algorithm-visualiser)           | [Live Demo]() |
+| Project Name                 | GitHub Repo                                                 | Live Demo |
+|-------------------------------|-------------------------------------------------------------|-----------|
+| Dijkstra Visualiser in Java   | [Repo](https://github.com/jbrowne7/javafx-algorithm-visualiser) | [Live Demo]() |
+| RAG with FastAPI              | [Repo](https://github.com/jbrowne7/rag-fastapi)            | [Live Demo]() |
