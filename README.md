@@ -31,4 +31,6 @@ Aspiring Software Engineer
 | Project Name                 | GitHub Repo                                                 | Live Demo |
 |-------------------------------|-------------------------------------------------------------|-----------|
 | Dijkstra Visualiser in Java   | [Repo](https://github.com/jbrowne7/javafx-algorithm-visualiser) | [Live Demo]() |
-| RAG with FastAPI              | [Repo](https://github.com/jbrowne7/rag-fastapi)            | [Live Demo]() |
+| FastAPI Document Storage Service              | [Repo](https://github.com/jbrowne7/rag-fastapi)            | [Live Demo]() |
+| Python Reverse Proxy              | [Repo](https://github.com/jbrowne7/py-reverse-proxy)            | [Live Demo]() |
+| Client Portfolio Management DB              | [Repo](https://github.com/jbrowne7/client-portfolio-risk-management-DB)            | [Live Demo]() |
