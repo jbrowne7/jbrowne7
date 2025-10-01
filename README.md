@@ -10,7 +10,7 @@ Aspiring Software Engineer interested in backend development, cloud technologies
 - Achieved AWS CCP, working towards AWS Certified Developer - Associate
 - Deployed projects on cloud infrastructure using containerisation via ECS
 - Hosted DBs for projects on AWS using RDS
-- Experience with using ALB, S3, AWS WAF, ECR, IAM
+- Experience using AWS ALB, S3, AWS WAF, ECR, IAM
 
 **Other Interests**
 - Security
